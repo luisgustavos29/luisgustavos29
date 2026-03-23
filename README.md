@@ -1,5 +1,9 @@
 #  Fala aí Mundo! 🤙🌎 | System.out.println("Luís Gustavo Silva");
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmsxNXRrdW9yaWxteXN2Z3B6bGl2YW56ZnV5bzBtM3JrbWhxcGZ0ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1qErVv5GVUac8uqBJU/giphy.gif" width="250" />
+</div>
+<br>
 
 - 💻 Estudante de Sistemas de Informação na UFU
 - 🌱 Sobrevivendo a bugs e evoluindo um dia de cada vez ☕
@@ -25,7 +29,7 @@ Aqui estão algumas das linguagens de programação e tecnologias com as quais e
 [![Gmail](https://img.shields.io/badge/luisgustavos29.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luisgustavos29.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/luisgustavos29-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisgustavos29/)
 
-<br><br>
+<br>
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luisgustavos29&show_icons=true&theme=dark) 
 
