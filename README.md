@@ -1,6 +1,5 @@
-# 🤙 Fala aí! Eu sou o Luís Gustavo Silva.
+# 🤙 Fala aí! | 🌎 Hello World | System.out.println("Luís Gustavo Silva");
 
-## 💼 Perfil Profissional
 
 - 💻 Estudante de Sistemas de Informação na UFU
 - 🌱 Sobrevivendo a bugs e evoluindo um dia de cada vez ☕
