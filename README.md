@@ -1,4 +1,4 @@
-# 🤙 Fala aí Mundo! 🌎 | System.out.println("Luís Gustavo Silva");
+#  Fala aí Mundo! 🤙🌎 | System.out.println("Luís Gustavo Silva");
 
 
 - 💻 Estudante de Sistemas de Informação na UFU
